@@ -1,2 +1,2 @@
 # lealagoss.github.io
-A portfolio website
+leala goss 
